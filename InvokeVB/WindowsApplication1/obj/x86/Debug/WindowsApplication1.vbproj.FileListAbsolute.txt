@@ -1,0 +1,9 @@
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Wei\程式\others\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

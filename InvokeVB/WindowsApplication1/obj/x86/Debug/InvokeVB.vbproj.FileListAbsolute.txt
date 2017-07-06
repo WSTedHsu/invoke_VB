@@ -1,0 +1,9 @@
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\bin\Debug\InvokeVB.exe
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\bin\Debug\InvokeVB.pdb
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\bin\Debug\InvokeVB.xml
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\obj\x86\Debug\InvokeVB.Form1.resources
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\obj\x86\Debug\InvokeVB.Resources.resources
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\obj\x86\Debug\InvokeVB.vbproj.GenerateResource.Cache
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\obj\x86\Debug\InvokeVB.exe
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\obj\x86\Debug\InvokeVB.xml
+D:\Wei\程式\others\Invoke\InvokeVB\WindowsApplication1\obj\x86\Debug\InvokeVB.pdb
